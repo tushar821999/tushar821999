@@ -18,24 +18,12 @@
 <a href="https://blog.tshrvrm.tech">
   <img align="left" alt="tushar's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
 </a>
-<br>
 
 Hi, I'm Tusha Verma, a Full Stack Developer 🚀 from India, Going to be Associate Software Engineer at 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing at [@My Blog](https://blog.tshrvrm.tech).
 
 
-<br>
-<br>
-**Talking about Personal Stuffs:**
-<br>
-- 🔭 I’m currently working on improving my techskill;
-- 💬 Ask me about anything, I am happy to help;
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Programming and coding are not the same;
-
-<br>
 
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar821999&show_icons=true&hide_border=true)
 
-<br>
 
 <em><b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
