@@ -18,10 +18,17 @@
 <a href="https://blog.tshrvrm.tech">
   <img align="left" alt="tushar's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
 </a>
+<br><br>
 
 Hi, I'm Tusha Verma, a Full Stack Developer 🚀 from India, Going to be Associate Software Engineer at 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing at [@My Blog](https://blog.tshrvrm.tech).
 
+**Talking about Personal Stuffs:**
 
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 🌱 I’m currently learning Flask; 
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: A programmer is not a PC repairman.;
+- 📝[Resume](#)
 
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar821999&show_icons=true&hide_border=true)
 
