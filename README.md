@@ -38,7 +38,7 @@ Hi, I'm Tushar Verma, a Full Stack Developer 🚀 from India, Going to be Associ
 - ⚡️ Fun-Fact: A programmer is not a PC repairman.;
 - 📝[Resume](#)
 
-**Languages / Framworks / Tools**  
+**Languages / Frameworks / Tools**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
