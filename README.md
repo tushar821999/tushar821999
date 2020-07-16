@@ -20,9 +20,15 @@
 </a>
 <br><br>
 
-<img align="left" alt="IBM Badge" width="50px" src="https://github.com/tushar821999/tushar821999/blob/master/Cloud_IBM.png"/>
+<img align="left" alt="IBM Badge" width="150px" src="https://github.com/tushar821999/tushar821999/blob/master/Cloud_IBM.png"/>
+
+<br>
 
 Hi, I'm Tusha Verma, a Full Stack Developer 🚀 from India, Going to be Associate Software Engineer at 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing at [@My Blog](https://blog.tshrvrm.tech).
+
+<br>
+<br>
+<br>
 
 **Talking about Personal Stuffs:**
 
