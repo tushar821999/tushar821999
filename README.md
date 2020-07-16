@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Tushar!](https://twitter.com/tshrvrm) 
 
 <!--
 **tushar821999/tushar821999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
