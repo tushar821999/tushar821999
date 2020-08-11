@@ -33,7 +33,7 @@ Hi, I'm Tushar Verma, a Full Stack Developer 🚀 from India, Going to be Associ
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning [Dart/Flutter](https://github.com/tushar821999/Learn-Flutter); 
+- 🌱 I’m currently learning [React JS :rocket:](#); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: A programmer is not a PC repairman.;
 - 📝[Resume](#)
