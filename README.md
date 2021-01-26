@@ -35,7 +35,6 @@ Hi, I'm Tushar Verma, Application Development Associate 🚀 from India, at 🙍
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 🌱 I’m currently learning [React JS :rocket:](#); 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: A programmer is not a PC repairman.;
 - 📝[Resume](#)
 
 **Languages / Frameworks / Tools**  
