@@ -24,7 +24,7 @@
 
 <br>
 
-Hi, I'm Tushar Verma, a Full Stack Developer 🚀 from India, Going to be Associate Software Engineer at 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing at [@My Blog](https://blog.tshrvrm.tech).
+Hi, I'm Tushar Verma, Application Development Associate 🚀 from India, at 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing at [@My Blog](https://blog.tshrvrm.tech).
 
 <br>
 <br>
