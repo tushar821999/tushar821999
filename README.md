@@ -30,7 +30,6 @@ Hi, I'm Tushar Verma, Application Development Associate 🚀 from India, 🙍�
 <br>
 <br>
 <br>
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
