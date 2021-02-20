@@ -1,4 +1,5 @@
 ### Hey 👋🏽, Welcome To [Tushar's](https://github.com/tushar821999?tab=repositories) Hut.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar821999&label=Views&color=blue&style=plastic" alt="iampawan" /> </
 
 <!--
 **tushar821999/tushar821999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
