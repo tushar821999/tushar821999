@@ -19,7 +19,7 @@
 <a href="https://blog.tshrvrm.tech">
   <img align="left" alt="tushar's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
 </a>
-<br><br>
+<br>
 
 [<img align="left" alt="IBM Badge" width="150px" src="https://github.com/tushar821999/tushar821999/blob/master/Cloud_IBM.png"/>](https://www.youracclaim.com/badges/a2a12614-a837-4d2e-af32-24f899eca682/public_url)
 
