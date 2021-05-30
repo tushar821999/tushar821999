@@ -27,7 +27,7 @@
 <br>
 <br>
 
-Hi, I'm Tushar Verma, Application Development Associate 🚀 from India, 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing [@My Blog](https://blog.tshrvrm.tech).
+Hi, I'm Tushar Verma, Application Development Associate 🚀 from India, 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing [@My Blog](https://tshrvrm.in).
 
 <br>
 <br>
