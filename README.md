@@ -1,3 +1,4 @@
+<img src="https://www.codewars.com/users/tshrvrm/badges/small"> <br>
 ### Hey 👋🏽, Welcome To [Tushar's](https://github.com/tushar821999?tab=repositories) Hut.
 <img src="https://komarev.com/ghpvc/?username=tushar821999&label=Views&color=blue&style=plastic" alt="iampawan" />
 <p align="left">
