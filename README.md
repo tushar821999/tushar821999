@@ -22,7 +22,7 @@
 <br>
 <br>
 
-Hi, I'm Tushar Verma, Application Development Associate 🚀 from India, 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing [@My Blog](https://tshrvrm.in).
+Hi, I'm Tushar Verma, Application Development Analyst 🚀 from India, 🙍🏽‍♂️ [@Accenture](https://www.accenture.com/in-en). I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy writing [@My Blog](https://tshrvrm.in).
 
 <br>
 <br>
@@ -32,7 +32,7 @@ Hi, I'm Tushar Verma, Application Development Associate 🚀 from India, 🙍�
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning [ASP.NET | Angular JS :rocket:](#); 
+- 🌱 I’m currently learning [Java Spring | Angular JS :rocket:](#); 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](#)
 
